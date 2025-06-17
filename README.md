@@ -34,3 +34,4 @@ The Smart Event Planner is a backend service that integrates with the OpenWeathe
 ## License
 This project is licensed under the MIT License.# SmartEventPlanner
 # EventPlanner
+# EventPlanner
